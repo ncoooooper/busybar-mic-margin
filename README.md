@@ -4,6 +4,8 @@ Measure digital microphone headroom, held peak and clipping during a soundcheck.
 
 Watch the bar while adjusting input gain. The current headroom tells you about the latest sample and the held peak remembers a loud syllable you may have missed.
 
+The eight segments show the level of the selected reading on a −48 to 0 dBFS scale. Turn to **PEAK HOLD** to see the held maximum or **RMS LEVEL** for the average. Silence leaves all segments dark.
+
 ## Read the margin on a soundcheck
 
 1. Start the PCM meter with the intended input and point the companion at its JSON output.
@@ -18,7 +20,7 @@ Watch the bar while adjusting input gain. The current headroom tells you about t
 2. Read the rear of the peak-hold page for the clipped-sample count. Restart the meter if you want to clear its held maximum for another take.
 3. Browse to the RMS page if you also need a reading of average signal level.
 
-![The held peak returns to 6.0 dB of headroom and the meter animation settles.](media/guide/return-to-mic-headroom.gif)
+![Turning back shows 6.0 dB of headroom beside the measured level.](media/guide/return-to-mic-headroom.gif)
 
 ## Example from the emulator
 

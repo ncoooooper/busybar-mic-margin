@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.micmargin exited: finished; heap peak 82.2 of 128 KiB",
-  "sha256": "2c93e80eafc9e38630faefc780b2e62f71946196ec96d0302454e9e28171df23",
+  "sha256": "0a1694736de01628bf22f3ab6e876964eb15e454353fd8ca27e09be031cca344",
   "pages": [
     {
       "caption": "PEAK HEADROOM",
@@ -61,9 +61,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      10
+      2,
+      2
     ],
-    "exit": "App io.btype.micmargin exited: finished; heap peak 87.2 of 128 KiB"
+    "exit": "App io.btype.micmargin exited: finished; heap peak 85.7 of 128 KiB"
   }
 }
