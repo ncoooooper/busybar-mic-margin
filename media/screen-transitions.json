@@ -1,6 +1,17 @@
 {
   "app": "busybar-mic-margin",
-  "sha256": "1aff860962e44991a7fc6342d3bf1faddf972eb4319dcf35c8c785a2936601de",
+  "sha256": "5b57f58add4bfd21bc7ac70bbc3ba0ac85c632f4402a272b2affe5a2ac688a54",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.micmargin",
+    "sha256": "5b57f58add4bfd21bc7ac70bbc3ba0ac85c632f4402a272b2affe5a2ac688a54",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 88.5,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,
