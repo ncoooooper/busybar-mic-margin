@@ -1,0 +1,50 @@
+{
+  "id": "BB-030",
+  "source": "Generated half-scale PCM supplied to the production meter.",
+  "scenario": "The bar displayed 6.0 dB of digital headroom.",
+  "keys": [
+    "up",
+    "down",
+    "ok"
+  ],
+  "frames": 54,
+  "distinct_frames": 13,
+  "exit": "App io.ncoooooper.micmargin exited: finished; heap peak 82.2 of 128 KiB",
+  "sha256": "3b2d345291bbbae19da35a46d7fa8fb9dde85061b1f52cb95874dfa3ccf8feab",
+  "pages": [
+    {
+      "caption": "PEAK HEADROOM",
+      "value": "6.0dB",
+      "lines": [
+        "Peak -6.0dB",
+        "Maximum -6.0dB"
+      ],
+      "fraction": 0.8745708351400078
+    },
+    {
+      "caption": "PEAK HOLD",
+      "value": "-6.0dB",
+      "lines": [
+        "Clipped samples 0",
+        "Reset on meter restart"
+      ]
+    },
+    {
+      "caption": "RMS LEVEL",
+      "value": "-6.0dB",
+      "lines": [
+        "dBFS / mono 16-bit",
+        "No waveform leaves host"
+      ]
+    }
+  ],
+  "initial": {
+    "caption": "PEAK HEADROOM",
+    "value": "6.0dB",
+    "lines": [
+      "Peak -6.0dB",
+      "Maximum -6.0dB"
+    ],
+    "fraction": 0.8745708351400078
+  }
+}

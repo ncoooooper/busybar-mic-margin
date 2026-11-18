@@ -2,7 +2,7 @@
   "name": "busybar-mic-margin",
   "private": true,
   "version": "0.1.0",
-  "description": "Mic Margin",
+  "description": "Measure digital microphone headroom, held peak and clipping during a soundcheck.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {
