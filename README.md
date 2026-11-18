@@ -6,6 +6,20 @@ Watch the bar while adjusting input gain. The current headroom tells you about t
 
 The eight segments show the level of the selected reading on a −48 to 0 dBFS scale. Turn to **PEAK HOLD** to see the held maximum or **RMS LEVEL** for the average. Silence leaves all segments dark.
 
+## Screen transitions
+
+Switch between headroom and the held peak. Watch the lower line for the dB reading.
+
+![Mic Margin front display. Switch between headroom and the held peak. Watch the lower line for the dB reading.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Mic Margin rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Read the margin on a soundcheck
 
 1. Start the PCM meter with the intended input and point the companion at its JSON output.
@@ -44,6 +58,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
