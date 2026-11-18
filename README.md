@@ -22,7 +22,7 @@ Watch the bar while adjusting input gain. The current headroom tells you about t
 
 ## Example from the emulator
 
-The test signal reached half of digital full scale. That is approximately −6.0 dBFS, leaving 6.0 dB before clipping. These figures describe the digital samples. They are not a measurement of room sound pressure. Generated half-scale PCM supplied to the production meter.
+The test signal reached half of digital full scale. That is approximately −6.0 dBFS, leaving 6.0 dB before clipping. These figures describe the digital samples. They are not a measurement of room sound pressure. The test fed generated half-scale PCM into the production meter.
 
 ## Set up the source
 
