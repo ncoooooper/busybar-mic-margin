@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.micmargin exited: finished; heap peak 82.2 of 128 KiB",
-  "sha256": "4003b0f0ce7b1d1f36166b24ac09e90c8ac25229cfb8c7ee2bdaa0ddd4d0deb1",
+  "sha256": "2c93e80eafc9e38630faefc780b2e62f71946196ec96d0302454e9e28171df23",
   "pages": [
     {
       "caption": "PEAK HEADROOM",
@@ -46,5 +46,24 @@
       "Maximum -6.0dB"
     ],
     "fraction": 0.8745708351400078
+  },
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "Recorded companion readings",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok"
+      ]
+    ],
+    "frames": 128,
+    "distinct_by_flow": [
+      7,
+      10
+    ],
+    "exit": "App io.btype.micmargin exited: finished; heap peak 87.2 of 128 KiB"
   }
 }
